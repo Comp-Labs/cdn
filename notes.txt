@@ -47,3 +47,4 @@ over-speeding frequency analytics - strategic deployment
 
 We give data -> We get the personalised experience based on that aggregate data.
 It is us at the end who decides how that business runs in future
+
